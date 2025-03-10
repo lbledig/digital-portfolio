@@ -1,0 +1,8 @@
+# Titanic Dataset: Exploratory Data Analysis
+
+![Titanic Image](img/titanic.jpg){height=500px}  
+*Figure {numref}`fig:titanic`: Titanic Image downloaded from Wikimedia.*
+
+This is an EDA of the famous Titanic (shown in {numref}`fig:titanic`) dataset from Kaggle.
+
+
